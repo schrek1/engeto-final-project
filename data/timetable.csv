@@ -1,0 +1,11 @@
+TIME;FROM;TO;CAPACITY
+7:00;Ostrava;Brno;50
+7:00;Brno;Ostrava;20
+19:00;Ostrava;Brno;20
+19:00;Brno;Ostrava;50
+7:00;Jihlava;Brno;50
+7:00;Brno;Jihlava;20
+19:00;Jihlava;Brno;20
+19:00;Brno;Jihlava;50
+12:00;Ostrava;Jihlava;20
+12:00;Jihlava;Ostrava;20
